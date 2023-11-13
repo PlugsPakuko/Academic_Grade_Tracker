@@ -1,0 +1,107 @@
+,CODE,Subject NAME,CR,Grade
+Grade 10 Term 1,TH31101,Thai 1,1,4
+,MTH31101,Math Regular 1,1,4
+,SCI31101,Bioscience 1,1,4
+,SCI31104,Designing and Technology 1,1,4
+,SOC31101,Geography,1,4
+,SOC31103,History 1,0.5,4
+,PE31101,Physical Education 1,0.5,4
+,ART31101,Musical 1,0.5,4
+,ENG31101,English 1,1,4
+,MTH31201,Math Advanced 1,2,4
+,SCI31201,Physics 1,1.5,3
+,SCI31221,Chemistry 1,1.5,3.5
+,SCI31245,Biology 1,1.5,4
+,SCI31275,Robot Exploration 1,1,4
+,SCI31277,Robot Designing1,1,4
+,SCI31291,Basic Programming,1,4
+,ENG31207,English for Communication 1,1,4
+,,,,
+,,,,
+Grade 10 Term 2,TH31102,Thai 2,1,4
+,MTH31102,Math Regular 1,1,4
+,SCI31102,Bioscience 1,1,4
+,SCI31103,Calculation Science 1,1,4
+,SOC31102,Economy,1,3.5
+,SOC31104,History 2,0.5,4
+,PE31102,Physical Education 2,0.5,4
+,ART31102,Musical 2,0.5,4
+,ENG31102,English 2,1,4
+,MTH31202,Math Advanced 2,2,4
+,SCI31202,Physics 2,1.5,2
+,SCI31222,Chemistry 2,1.5,3.5
+,SCI31246,Biology 2,1.5,4
+,SCI31276,Robot Exploration 2,1,4
+,SCI31278,Robot Designing2,1,4
+,SCI31292,Application Development,1,4
+,ENG31208,English for Communication 2,1,4
+,,,,
+,,,,
+Grade 11 Term 1,TH32101,Thai 3,1,4
+,MTH32101,Math Regular 3,1,4
+,SCI32101,Physical Science 1,1,4
+,SCI32103,Calculation Science 2,1,4
+,SOC32101,Social Duty 1,1,4
+,SOC32103,World History 1,0.5,4
+,PE32101,Physical Education 3,0.5,4
+,ART32101,Visual Art 1,0.5,4
+,GEN32101,General,1,4
+,ENG32101,English 3,1,4
+,MTH32201,Math Advanced 3,2,4
+,SCI32203,Physics 3,1.5,4
+,SCI32223,Chemistry 3,1.5,3.5
+,SCI32250,Biology 3,1.5,4
+,SCI32277,Robot 1,1,4
+,SCI32291,Internet of Things,1,4
+,ENG32207,English for Communication 3,1,4
+,,,,
+,,,,
+Grade 11 Term 2,TH32102,Thai 4,1,4
+,MTH32102,Math Regular 4,1,4
+,SCI32102,Physical Science 2,1,4
+,SCI32104,Designing and Technology 2,1,4
+,SOC32102,Social Duty 2,1,4
+,SOC32104,World History 2,0.5,4
+,PE32102,Physical Education 4,0.5,4
+,ART32102,Visual Art 2,0.5,4
+,ENG32102,English 4,1,4
+,MTH32202,Math Advanced 4,2,4
+,SCI32204,Physics 4,1.5,4
+,SCI32224,Chemistry 4,1.5,4
+,SCI32251,Biology 4,1.5,4
+,SCI32276,Robot Tool Designing 2,1,4
+,SCI32278,Robot 2,1,4
+,SCI32292,Technical Drawing,1,4
+,ENG32208,English for Communication 4,1,4
+,,,,
+,,,,
+Grade 12 Term 1,TH33101,Thai 5,1,4
+,MTH33101,Math Regular 5,1,4
+,SCI33101,Astronomy 1,1,4
+,SOC33101,Buddhism 1,1,4
+,PE33101,Physical Education 5,0.5,3.5
+,ART33101,Thai Art 1,0.5,4
+,GEN33101,General 5,0.5,4
+,ENG33101,English 5,1,4
+,MTH33201,Math Advanced 5,2,4
+,SCI33201,Physics 5,1.5,4
+,SCI33213,Engineering Design,1,4
+,SCI33221,Chemistry 5,1.5,3
+,SCI33241,Biology 5,1.5,4
+,ENG33207,English for Communication 5,1,4
+,,,,
+,,,,
+Grade 12 Term 2,TH33102,Thai 6,1,4
+,MTH33102,Math Regular 6,1,4
+,SCI33102,Astronomy 2,1,4
+,SOC33102,Buddhism 2,1,4
+,PE33102,Physical Education 6,0.5,4
+,ART33102,Thai Art 2,0.5,4
+,GEN33102,General 6,0.5,4
+,ENG33102,English 6,1,4
+,MTH33202,Math Advanced 6,2,4
+,SCI33202,Physics 6,1.5,3
+,SCI33214,Introduction to Engineering,1,4
+,SCI33222,Chemistry 6,1.5,4
+,SCI33242,Biology 6,1.5,3.5
+,ENG33208,English for Communication 6,1,4
