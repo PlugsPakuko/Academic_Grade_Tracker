@@ -1,4 +1,13 @@
-Average Grade from Transcript.csv
+Average grade per Semester
+Grade Semester,Credit,Average Grade
+Grade:10 Semester:1,18.00,3.88
+Grade:10 Semester:2,18.00,3.76
+Grade:11 Semester:1,18.00,3.96
+Grade:11 Semester:2,18.00,4.00
+Grade:12 Semester:1,15.00,3.88
+Grade:12 Semester:2,15.00,3.85
+,,
+Overall Average Grade
 Course,Credit,Average Grade
 MTH,4.00,18.00
 SCI,3.79,50.00
